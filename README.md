@@ -1,4 +1,5 @@
 # Django Rest Framework
+![alt text](/result.png)
 
 ## Getting Started
 
