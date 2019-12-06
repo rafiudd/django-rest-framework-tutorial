@@ -26,3 +26,14 @@ cd tutorial
 django-admin startapp quickstart
 cd ..
 ```
+
+## How to start
+```
+  python manage.py
+```
+
+or
+
+```
+python manage.py createsuperuser --email admin@example.com --username admin
+```
