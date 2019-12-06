@@ -30,7 +30,7 @@ cd ..
 
 ## How to start
 ```
-  python manage.py
+  python manage.py runserver
 ```
 
 or
